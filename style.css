@@ -1,4 +1,4 @@
   h1 {color: rgb(0, 128, 128);}
   body {background-color: rgba(255, 253, 151, 0.71);}
   p {background-color: rgb(255, 255, 230);}
-  div {max-width:660px, margin:auto;}
+  div {max-width:660px, margin:auto, background-color: rgb(255, 255, 230);}
