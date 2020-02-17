@@ -12,7 +12,9 @@
   p {background-color: rgb(195, 255, 227);
       max-width: 640px;
      }
-#page-wrap {width: 670;
-          margin: 0 auto;
-          text-align: center;
+.page-wrap {
+      max-width: 700px;
+      margin: auto;
+      text-align: center;
+      padding: 10px;
      }
