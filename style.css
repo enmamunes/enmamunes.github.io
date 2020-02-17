@@ -1,19 +1,19 @@
 h1 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
-  max-width: 640px;
+  max-width: 650px;
  }
 h2 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
-  max-width: 640px;
+  max-width: 650px;
 }
 body {
   background-color: rgba(151, 255, 241, 0.22);
 }
 p {
   background-color: rgb(195, 255, 227);
-  max-width: 640px;
+  max-width: 650px;
 }
 
 #page-wrap {
