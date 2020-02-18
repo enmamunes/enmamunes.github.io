@@ -1,12 +1,12 @@
 h1 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
-  max-width: 670px;
+  max-width: 700px;
  }
 h2 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
-  max-width: 670px;
+  max-width: 700px;
 }
 body {
   background-color: rgba(151, 255, 241, 0.22);
@@ -14,18 +14,18 @@ body {
 }
 p {
   background-color: rgb(195, 255, 227);
-  max-width: 670px;
+  max-width: 700px;
 }
 
 table.center {
   margin-left: auto;
   margin-right: auto;
-  max-width: 670px;
+  max-width: 700px;
 }
 
 #page-wrap {
   max-width: 700px;
   margin: auto;
   text-align: center;
-  padding : 20px;
+  padding : 15px;
 }
