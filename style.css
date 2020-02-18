@@ -2,18 +2,26 @@ h1 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
   max-width: 650px;
+  text-align: center;
+
  }
 h2 {
   color: rgb(0, 128, 128);
   background-color: rgb(195, 255, 227);
   max-width: 650px;
+  text-align: center;
+
 }
 body {
   background-color: rgba(151, 255, 241, 0.22);
+  text-align: center;
+
 }
 p {
   background-color: rgb(195, 255, 227);
   max-width: 650px;
+  text-align: center;
+
 }
 
 #page-wrap {
